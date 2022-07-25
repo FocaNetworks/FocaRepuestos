@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/16/2020 10:47:25" ReportInfo.Modified="08/16/2020 10:47:25" ReportInfo.CreatorVersion="2020.3.17.0">
+  <Dictionary/>
+  <ReportPage Name="page_1" Width="758" Height="1071" PaperWidth="260" LeftMargin="7.62" TopMargin="11.43" RightMargin="11.43" BottomMargin="11.43" Watermark.Font="Arial, 60pt">
+    <DataBand Name="rtf_page" Width="686" Height="281.65" CanGrow="true">
+      <TextObject Name="p1" Top="52.68" Width="686" Height="16.87" CanGrow="true" Text="05/06/2007" Padding="0, 0, 0, 0" AllowExpressions="false" Font="Arial, 11pt" TextFill.Color="0, 0, 0" LineHeight="17" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p2" Top="69.55" Width="686" Height="13.8" CanGrow="true" Text="1" Padding="0, 0, 0, 0" AllowExpressions="false" Font="Arial, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p3" Top="118.47" Width="686" Height="13.8" CanGrow="true" Text="CONSUMIDOR FINAL" Padding="0, 0, 0, 0" AllowExpressions="false" Font="Arial, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p4" Top="132.27" Width="686" Height="13.58" CanGrow="true" Text="1" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p5" Top="145.85" Width="686" Height="13.58" CanGrow="true" Text="ARTICULO DE PRUEBA" Padding="0, 0, 0, 0" AllowExpressions="false" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p6" Top="159.43" Width="686" Height="13.58" CanGrow="true" Text="430,95" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p7" Top="173.01" Width="686" Height="13.58" CanGrow="true" Text="430,95" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p8" Top="186.59" Width="686" Height="13.58" CanGrow="true" Text="1" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p9" Top="200.17" Width="686" Height="13.58" CanGrow="true" Text="FDSF" Padding="0, 0, 0, 0" AllowExpressions="false" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p10" Top="213.75" Width="686" Height="13.58" CanGrow="true" Text="101,00" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p11" Top="227.33" Width="686" Height="13.58" CanGrow="true" Text="101,00" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p12" Top="240.91" Width="686" Height="13.58" CanGrow="true" Text="&lt;b&gt;$531,95 " Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt, style=Bold" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p13" Top="254.49" Width="686" Height="13.58" CanGrow="true" Text="531,95" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+      <TextObject Name="p14" Top="268.07" Width="686" Height="13.58" CanGrow="true" Text="0,00" Padding="0, 0, 0, 0" AllowExpressions="false" HorzAlign="Right" Font="Microsoft Sans Serif, 9pt" TextFill.Color="0, 0, 0" LineHeight="14" TextRenderType="HtmlParagraph"/>
+    </DataBand>
+  </ReportPage>
+</Report>
