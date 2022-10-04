@@ -14,7 +14,6 @@ echo =   Correo:aodjfoca@gmail.com    =
 echo =  Copyright 2022 @ Foca Systems =
 echo ==================================
 echo Actualizacion Base Datos Sistema Foca
-pause
 cd ..
 cd ..
 cd ..
