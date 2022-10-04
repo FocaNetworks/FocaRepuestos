@@ -23,9 +23,7 @@ cd ..
 cd C:\ARF
 git init
 git status
-pause
 git add .
 git commit -m "Actualizacion DB"
 git push -u origin main
 git status
-echo Para salir presiona una tecla.
